@@ -10,6 +10,7 @@
 
 using namespace std;
 
+
 string GussNumber, gussingNumber;
 
 void pic0() {
